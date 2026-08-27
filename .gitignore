@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Never belongs in a public plugin repo
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets.json

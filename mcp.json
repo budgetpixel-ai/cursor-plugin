@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "budgetpixel": {
+      "type": "http",
+      "url": "https://mcp.budgetpixel.com/mcp"
+    }
+  }
+}

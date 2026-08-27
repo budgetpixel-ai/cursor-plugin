@@ -1,0 +1,26 @@
+{
+  "name": "budgetpixel",
+  "displayName": "BudgetPixel",
+  "description": "Generate AI images, video, music, and sound effects with BudgetPixel MCP from Cursor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "BudgetPixel AI",
+    "email": "support@budgetpixel.com"
+  },
+  "publisher": "budgetpixel-ai",
+  "homepage": "https://budgetpixel.com",
+  "repository": "https://github.com/budgetpixel-ai/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "budgetpixel",
+    "image-generation",
+    "video-generation",
+    "music-generation",
+    "sound-effects",
+    "upscaling",
+    "mcp"
+  ],
+  "category": "developer-tools",
+  "tags": ["media", "creative", "ai-generation", "image", "video", "audio"]
+}
