@@ -46,7 +46,7 @@ claude mcp add budgetpixel --transport http https://mcp.budgetpixel.com/mcp
 
 ## Requirements
 
-A BudgetPixel account on a Premium, Pro, or Ultra plan. Free-plan users can browse the
+A BudgetPixel account on any paid plan (Starter, Basic, Premium, Pro or Ultra). Free-plan users can browse the
 model catalog; the generation tools return an upgrade notice.
 
 Video is priced per second and by resolution, so `/budgetpixel` will quote the cost and ask

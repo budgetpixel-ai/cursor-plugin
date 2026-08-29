@@ -99,7 +99,7 @@ credits per post and is subject to an hourly cap, and posts are moderated after 
 ## Account requirements
 
 The account-bound tools — generation, uploads, upscales, posting, history, balance —
-require a Premium, Pro, or Ultra plan. Free-plan users can call `list_models`; the others
+require any paid plan (Starter, Basic, Premium, Pro or Ultra). Free-plan users can call `list_models`; the others
 return an upgrade notice. If a call fails for credits or plan reasons, relay the notice
 rather than retrying the same call.
 
