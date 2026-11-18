@@ -62,6 +62,16 @@ before running anything expensive.
 
 [support@budgetpixel.com](mailto:support@budgetpixel.com)
 
+## More from BudgetPixel
+
+The same BudgetPixel account also runs these studios in the browser:
+
+- [Director](https://budgetpixel.com/director): an AI movie maker that turns an idea into a short film, step by step.
+- [Music Video Studio](https://budgetpixel.com/music-video): an AI music video maker. Bring your song; the singers lip-sync to it.
+- [Recast](https://budgetpixel.com/recast): recast a short video with a new cast, keeping the moves, timing and sound.
+- [Clip Studio](https://studio.budgetpixel.com): an [AI shorts generator](https://studio.budgetpixel.com/shorts-studio), an [AI B-roll generator](https://studio.budgetpixel.com/broll-studio) and a [faceless video generator](https://studio.budgetpixel.com/explainer-studio) for your own footage.
+- [Design Studio](https://budgetpixel.com/design): an AI designer with free, editable templates.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
